@@ -1,11 +1,13 @@
 body {
-  background-color: lightblue; 
-}
-  body {
-  color: blue;
+  background-color: lightblue;
 }
 
 h1 {
-  color: green;
+  color: white;
+  text-align: center;
 }
-<h1> This is a header <h1> 
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
