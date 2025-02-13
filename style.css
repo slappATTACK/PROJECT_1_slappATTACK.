@@ -13,10 +13,10 @@ h1 {
   font-family: "Marck Script", serif;
   font-weight: 400;
   font-style: normal;
-  color: #f3a83a;
+  color: blue;
 }
 
-  color: #5499c7;
+  color: grey;
 }
 
 p {
@@ -28,7 +28,7 @@ p {
 
 a {
   text-decoration: none;
-  color: #008CBA;
+  color: coral;
 }
 </style>
 </head>
