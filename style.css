@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 div {
   border: 1px solid gray;
   padding: 8px;
@@ -6,25 +10,18 @@ div {
 h1 {
   text-align: center;
   text-transform: uppercase;
-  font-family: "Marck Script", serif;
-  font-weight: 400;
-  font-style: normal;
-  color: blue;
-}
-
-  color: grey;
+  color: #4CAF50;
 }
 
 p {
   text-indent: 50px;
   text-align: justify;
-  font-family: Times New Roman, serif;
-  letter-spacing: 1px;
+  letter-spacing: 3px;
 }
 
 a {
   text-decoration: none;
-  color: coral;
+  color: #008CBA;
 }
 </style>
 </head>
@@ -36,5 +33,11 @@ a {
   The paragraph is indented, aligned, and the space between characters is specified. The underline is removed from this colored
   <a target="_blank" href="tryit.asp?filename=trycss_text">"Try it Yourself"</a> link.</p>
 </div>
+
+</body>
+</html>
+
+
+
 
 
